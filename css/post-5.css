@@ -1,0 +1,49 @@
+.elementor-kit-5{--e-global-color-primary:#66CCCC;--e-global-color-secondary:#FF6633;--e-global-color-text:#113232;--e-global-color-accent:#6699CC;--e-global-color-570ea85:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-4afc311-font-family:"WobblyBobbly";--e-global-typography-4afc311-font-size:72px;--e-global-typography-4afc311-line-height:76px;--e-global-typography-47b8962-font-family:"WobblyBobbly";--e-global-typography-47b8962-font-size:54px;--e-global-typography-47b8962-line-height:66px;--e-global-typography-8d2263b-font-family:"WobblyBobbly";--e-global-typography-8d2263b-font-size:27px;--e-global-typography-8d2263b-line-height:30px;--e-global-typography-125a640-font-family:"WobblyBobbly";--e-global-typography-125a640-font-size:20px;--e-global-typography-93a11ef-font-family:"Khula";--e-global-typography-93a11ef-font-size:18px;--e-global-typography-93a11ef-font-weight:normal;--e-global-typography-93a11ef-line-height:29px;color:var( --e-global-color-text );font-family:var( --e-global-typography-93a11ef-font-family ), Sans-serif;font-size:var( --e-global-typography-93a11ef-font-size );font-weight:var( --e-global-typography-93a11ef-font-weight );line-height:var( --e-global-typography-93a11ef-line-height );letter-spacing:var( --e-global-typography-93a11ef-letter-spacing );word-spacing:var( --e-global-typography-93a11ef-word-spacing );background-image:url("../fonts/pattern.svg");background-position:center center;background-repeat:repeat;background-size:contain;}.elementor-kit-5 p{margin-bottom:25px;}.elementor-kit-5 a{color:var( --e-global-color-secondary );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-family:var( --e-global-typography-125a640-font-family ), Sans-serif;font-size:var( --e-global-typography-125a640-font-size );line-height:var( --e-global-typography-125a640-line-height );letter-spacing:var( --e-global-typography-125a640-letter-spacing );word-spacing:var( --e-global-typography-125a640-word-spacing );color:var( --e-global-color-570ea85 );background-color:var( --e-global-color-secondary );border-radius:10px 10px 10px 10px;padding:14px 25px 14px 25px;}.elementor-kit-5 button:hover,.elementor-kit-5 button:focus,.elementor-kit-5 input[type="button"]:hover,.elementor-kit-5 input[type="button"]:focus,.elementor-kit-5 input[type="submit"]:hover,.elementor-kit-5 input[type="submit"]:focus,.elementor-kit-5 .elementor-button:hover,.elementor-kit-5 .elementor-button:focus{background-color:#C2380A;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;--container-default-padding-top:50px;--container-default-padding-right:15px;--container-default-padding-bottom:50px;--container-default-padding-left:15px;}.elementor-widget:not(:last-child){margin-block-end:50px;}.elementor-element{--widgets-spacing:50px 50px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-kit-5{font-size:var( --e-global-typography-93a11ef-font-size );line-height:var( --e-global-typography-93a11ef-line-height );letter-spacing:var( --e-global-typography-93a11ef-letter-spacing );word-spacing:var( --e-global-typography-93a11ef-word-spacing );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-125a640-font-size );line-height:var( --e-global-typography-125a640-line-height );letter-spacing:var( --e-global-typography-125a640-letter-spacing );word-spacing:var( --e-global-typography-125a640-word-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;--container-default-padding-top:50px;--container-default-padding-right:15px;--container-default-padding-bottom:50px;--container-default-padding-left:15px;}}@media(max-width:767px){.elementor-kit-5{font-size:var( --e-global-typography-93a11ef-font-size );line-height:var( --e-global-typography-93a11ef-line-height );letter-spacing:var( --e-global-typography-93a11ef-letter-spacing );word-spacing:var( --e-global-typography-93a11ef-word-spacing );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-125a640-font-size );line-height:var( --e-global-typography-125a640-line-height );letter-spacing:var( --e-global-typography-125a640-letter-spacing );word-spacing:var( --e-global-typography-125a640-word-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;--container-default-padding-top:50px;--container-default-padding-right:15px;--container-default-padding-bottom:50px;--container-default-padding-left:15px;}}/* Start custom CSS *//*Paragraphs*/
+
+p:nth-last-child(1) {
+		margin-bottom: 0px !important;
+}
+
+p a {
+    font-weight:700;
+}
+
+ol,
+ul {
+    margin-bottom:30px;
+}
+
+/*Bold*/
+
+strong {
+		font-weight:700;
+}
+
+/*Highlight*/
+::selection {
+		background: #66CCCC;
+		color: #fff;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'WobblyBobbly';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/WobblyBobbly.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Khula';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Khula-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Khula';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../fonts/Khula-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
